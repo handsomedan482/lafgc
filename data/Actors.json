@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"Alex_1","characterIndex":0,"characterName":"GGActor_1","classId":1,"equips":[1,1,5,1,4],"faceIndex":1,"faceName":"stefon","traits":[],"initialLevel":1,"maxLevel":99,"name":"Synphony","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Krucial_1","characterIndex":1,"characterName":"SYActor_1","classId":2,"equips":[3,0,5,1,0],"faceIndex":0,"faceName":"sytynface1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Krucial B","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"LJ_1","characterIndex":2,"characterName":"SYActor_1","classId":3,"equips":[5,0,5,1,0],"faceIndex":2,"faceName":"sytynface1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mechanic","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Axel_1","characterIndex":1,"characterName":"GGActor_1","classId":4,"equips":[7,0,5,1,0],"faceIndex":5,"faceName":"sytynface1","traits":[],"initialLevel":1,"maxLevel":99,"name":"NovaSpec","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Logan_1","characterIndex":3,"characterName":"GGActor_1","classId":5,"equips":[9,0,6,3,0],"faceIndex":3,"faceName":"stefon","traits":[],"initialLevel":1,"maxLevel":99,"name":"Class Real","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Isaiah_1","characterIndex":3,"characterName":"SYActor_1","classId":6,"equips":[11,0,5,2,9],"faceIndex":3,"faceName":"sytynface1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zenzo","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Hung_1","characterIndex":2,"characterName":"GGActor_1","classId":7,"equips":[12,0,7,4,12],"faceIndex":2,"faceName":"stefon","traits":[],"initialLevel":1,"maxLevel":99,"name":"Muii","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Zaith_1","characterIndex":1,"characterName":"Nature","classId":8,"equips":[13,0,5,2,13],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zaith","nickname":"","note":"","profile":""}
+]

@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"Issa shirt","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":3,"value":1.1}],"iconIndex":135,"name":"Shirt","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":1,"description":"Issa GOL shirt","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":3,"value":1.25},{"code":21,"dataId":0,"value":1.1}],"iconIndex":135,"name":"GOL Shirt","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"Issa 482 shirt","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":5,"value":1.25},{"code":21,"dataId":0,"value":1.1}],"iconIndex":135,"name":"482 Shirt","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"Issa SLAM shirt","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":3,"value":1.4},{"code":21,"dataId":5,"value":1.4},{"code":21,"dataId":0,"value":1.1}],"iconIndex":135,"name":"SLAM Shirt","note":"","params":[0,0,0,0,0,0,0,0],"price":1000},
+{"id":5,"atypeId":1,"description":"Issa hat","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":3,"value":1.1}],"iconIndex":130,"name":"Hat","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
+{"id":6,"atypeId":1,"description":"Issa beanie","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":5,"value":1.1}],"iconIndex":130,"name":"Logan Beanie","note":"","params":[0,0,0,0,0,0,0,0],"price":300},
+{"id":7,"atypeId":1,"description":"Issa gross hat","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":5,"value":1.2},{"code":21,"dataId":3,"value":1.2}],"iconIndex":130,"name":"Zito Fox Hat","note":"","params":[0,0,0,0,0,0,0,0],"price":1000},
+{"id":8,"atypeId":1,"description":"The hottest buttons","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":2,"value":1.1}],"iconIndex":145,"name":"Sanwa Buttons","note":"","params":[0,0,0,0,0,0,0,0],"price":500},
+{"id":9,"atypeId":1,"description":"The hottest joystick","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":4,"value":1.1}],"iconIndex":145,"name":"Sanwa JLF","note":"","params":[0,0,0,0,0,0,0,0],"price":500},
+{"id":10,"atypeId":1,"description":"The hottest book","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":3,"value":1.1}],"iconIndex":145,"name":"Daigo's Book","note":"","params":[0,0,0,0,0,0,0,0],"price":500},
+{"id":11,"atypeId":1,"description":"The hottest(?) cloak","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":5,"value":1.1}],"iconIndex":145,"name":"Van's Cloak","note":"","params":[0,0,0,0,0,0,0,0],"price":500},
+{"id":12,"atypeId":1,"description":"Deadass b","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":6,"value":1.1}],"iconIndex":145,"name":"Deadass Tims","note":"","params":[0,0,0,0,0,0,0,0],"price":500},
+{"id":13,"atypeId":1,"description":"The hottest jersey","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":7,"value":1.25}],"iconIndex":145,"name":"RNG Jersey","note":"","params":[0,0,0,0,0,0,0,0],"price":500},
+{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":16,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
